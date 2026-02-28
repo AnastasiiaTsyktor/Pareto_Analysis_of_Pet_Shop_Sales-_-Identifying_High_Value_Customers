@@ -4,20 +4,20 @@ Identify top customers driving pet shop revenue using Pareto Analysis
 ## Project Overview
 This project demonstrates a Pareto Analysis on pet shop sales data to identify the small percentage of customers generating the majority of revenue. Using SQL in BigQuery, the analysis helps answer key business questions and provides actionable insights for customer prioritization.
 The analysis addresses questions such as:
-Which customers generate 80% (or any target %) of total sales?
-How many customers should the business focus on to maximize revenue impact?
-How is revenue distributed among all customers?
+- Which customers generate 80% (or any target %) of total sales?
+- How many customers should the business focus on to maximize revenue impact?
+- How is revenue distributed among all customers?
 
 ## Tools & Technologies
-SQL (BigQuery) – for data processing, aggregation, and analysis
-Analytical concepts – Pareto principle (80/20 rule), cumulative revenue, customer segmentation
+- SQL (BigQuery) – for data processing, aggregation, and analysis
+- Analytical concepts – Pareto principle (80/20 rule), cumulative revenue, customer segmentation
 
 ## Business Problem
 In retail, a small group of customers often contributes the most to overall revenue. Identifying these high-value customers enables:
 Targeted marketing and loyalty programs
 Personalized offers to increase retention
 Efficient allocation of sales resources
-The goal is to transform raw transaction data into actionable insights by calculating cumulative revenue and customer contribution percentages.
+Using Pareto Analysis, businesses can focus on what matters most-whether it’s products or customers-ensuring resources are allocated for maximum impact.
 
 ## Approach & Solution
 Two approaches were implemented using SQL:
