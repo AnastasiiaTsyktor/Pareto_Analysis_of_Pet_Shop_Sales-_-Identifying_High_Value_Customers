@@ -1,5 +1,5 @@
 # Pareto_Analysis_of_Pet_Shop_Sales
-Identify top customers driving pet shop revenue using Pareto Analysis
+SQL-based Pareto Analysis for pet shop data to find high-value customers and product lines.
 
 ## Project Overview
 This project demonstrates a Pareto Analysis on pet shop sales data to identify the small percentage of customers generating the majority of revenue. Using SQL in BigQuery, the analysis helps answer key business questions and provides actionable insights for customer prioritization.
